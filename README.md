@@ -12,10 +12,20 @@ Microwavin Manoa creates a way for students (on-campus or off) to learn and shar
 ## Getting Started
 
 ### Prerequisites
-Install [Meteor](https://v2-docs.meteor.com/install.html) 
+You'll need the following installed:
+- npm 
+- [Node.js](https://nodejs.org/en)
+- [Meteor](https://v2-docs.meteor.com/install.html) 
 
 ### Installation
-Clone the Microwavin Manoa repo. Then, cd into the app directory and install the required libraries with:
+Fork the Microwavin Manoa repo
+
+```
+git clone https://github.com/YOUR-USERNAME/microwavin-manoa.git
+cd microwavin-manoa/app
+```
+
+Then, cd into the app directory and install the required libraries with:
 
 `$ meteor npm install`
 
@@ -39,13 +49,17 @@ ESLint enforces consistent coding standards and prevents bad practices with slop
 ## Deployment
 
 ### Built With
+- [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
+- [React](https://react.dev/) for component-based UI implementation and routing.
+- [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
+- [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Contact
+## Get in Touch
+Join our [Discord](https://discord.com/) to stay updated and contact the main contributors!
 
-
-## Licensing
-
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
