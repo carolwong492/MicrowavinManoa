@@ -87,7 +87,7 @@ Configure custom domain and SSL in the Meteor Cloud dashboard.
 - [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/carolwong492/MicrowavinManoa/blob/main/CONTRIBUTING.md) for details how to contribute and the process for submitting pull requests to us, and [CODE_OF_CONDUCT.md](https://github.com/carolwong492/MicrowavinManoa/blob/main/CODE_OF_CONDUCT.md) for our code of conduct.
 
 ## Get in Touch
 Join our [Discord](https://discord.com/) to stay updated and contact the main contributors!
