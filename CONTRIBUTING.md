@@ -1,9 +1,23 @@
 # Contributing
 
-Thank you for considering contributing to Microwavin Manoa!
+Thank you for considering contributing to Microwavin Manoa! Please follow the guidelines below to ensure a smooth process.
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+## Ground Rules
+- Ensure all tests pass before submitting.
+- Reference related issues in your PR description (e.g., Closes #42).
+- Include relevant screenshots or examples if UI changes are made.
+- Follow the style guide enforced by ESLint.
+- Use descriptive variable and function names.
+- Write tests for new features and bug fixes.
+- Be encouraging to newcomers and people of all skill levels. 
 
-There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests or writing code which can be incorporated into Elasticsearch itself.
+### Your First Contribution
+Check out the Issues tab for any issues tagged 'good-first-issue'. These issues will help you familiarize yourself with the app and codebase. If you run into any problems, feel free to contact a maintainer on our [Discord](https://discord.com/). 
 
-# Ground Rules
+### Submitting a Contribution
+
+### Bug Reporting
+
+### Feature Suggestions
+If you have a good idea for a feature, 
+
